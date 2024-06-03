@@ -1,0 +1,23 @@
+<resources>
+    <!-- Common Strings -->
+    <string name="app_name">Note It!</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="skip">Skip</string>
+    <string name="welcome_message">Welcome to MyNotesApp</string>
+    <string name="username_hint">Username</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="login_button">LOGIN</string>
+    <string name="signup_button">SIGN UP</string>
+    <string name="skip_button">SKIP</string>
+    <string name="notes">Notes</string>
+    <string name="add_note">Add Note</string>
+    <string name="note_title_hint">Title</string>
+    <string name="note_content_hint">Content</string>
+    <string name="save_note">Save Note</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="logout">Log Out</string>
+</resources>

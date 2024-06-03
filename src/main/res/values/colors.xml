@@ -1,0 +1,35 @@
+<resources>
+    <!-- Red -->
+    <color name="colorRedDark">#D32F2F</color> <!-- Red 700 -->
+    <color name="colorRedLight">#FF5252</color> <!-- Red 400 -->
+    <color name="colorRedAccent">#FF4081</color> <!-- Pink A200 -->
+
+    <!-- Blue -->
+    <color name="colorBlueDark">#1976D2</color> <!-- Blue 700 -->
+    <color name="colorBlueLight">#64B5F6</color> <!-- Blue 300 -->
+    <color name="colorBlueAccent">#03A9F4</color> <!-- Light Blue 500 -->
+
+    <!-- Green -->
+    <color name="colorGreenDark">#388E3C</color> <!-- Green 700 -->
+    <color name="colorGreenLight">#81C784</color> <!-- Green 300 -->
+    <color name="colorGreenAccent">#4CAF50</color> <!-- Green 500 -->
+
+    <!-- Yellow -->
+    <color name="colorYellowDark">#FBC02D</color> <!-- Amber 700 -->
+    <color name="colorYellowLight">#FFF176</color> <!-- Yellow 300 -->
+    <color name="colorYellowAccent">#FFEB3B</color> <!-- Yellow A200 -->
+
+    <!-- Text Colors -->
+    <color name="textPrimary">#FFFFFF</color> <!-- White -->
+    <color name="textSecondary">#BDBDBD</color> <!-- Grey 400 -->
+    <color name="textHint">#757575</color> <!-- Grey 600 -->
+
+    <!-- Background Colors -->
+    <color name="backgroundPrimary">#121212</color> <!-- Dark Grey -->
+    <color name="backgroundSecondary">#212121</color> <!-- Grey 900 -->
+
+    <!-- Button Colors -->
+    <color name="buttonPrimary">#FF5722</color> <!-- Deep Orange 500 -->
+    <color name="buttonSecondary">#FF9800</color> <!-- Orange 500 -->
+    <color name="buttonDisabled">#9E9E9E</color> <!-- Grey 500 -->
+</resources>

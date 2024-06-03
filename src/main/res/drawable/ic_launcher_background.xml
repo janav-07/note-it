@@ -1,0 +1,10 @@
+<!-- res/drawable/ic_launcher_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Gradient background with light brown color -->
+    <gradient
+        android:startColor="#D2B48C"
+        android:endColor="#CD853F"
+        android:angle="45" />
+
+</shape>
